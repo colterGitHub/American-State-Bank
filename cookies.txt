@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.asb.com	TRUE	/	FALSE	1999999999	__bkp	7b8b1c40-a332-11ed-970d-024291026b2b
+www.asb.com	TRUE	/	FALSE	1999999999	PLAY_SESSION	61c522b509deb39b11b286c8afcb935f26615d4a-v=1
+

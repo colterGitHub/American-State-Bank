@@ -1,0 +1,236 @@
+body.calculator-indiv {
+  font-family: "Lato" !important; }
+  body.calculator-indiv table, body.calculator-indiv td, body.calculator-indiv th, body.calculator-indiv ul, body.calculator-indiv ol, body.calculator-indiv dd, body.calculator-indiv dl, body.calculator-indiv p, body.calculator-indiv br, body.calculator-indiv dt {
+    font-family: "Lato" !important; }
+  body.calculator-indiv h1, body.calculator-indiv .h1, body.calculator-indiv h2, body.calculator-indiv .h2, body.calculator-indiv .olb .olb-more, .olb body.calculator-indiv .olb-more, body.calculator-indiv .atm__results .atm__results-list table#locationTable thead tr td span, .atm__results .atm__results-list table#locationTable thead tr td body.calculator-indiv span, body.calculator-indiv .atm__results .atm__results-list table#locationTable thead tr th span, .atm__results .atm__results-list table#locationTable thead tr th body.calculator-indiv span, body.calculator-indiv h3, body.calculator-indiv .h3, body.calculator-indiv .sub-section .slide-inner .sub-text h2, .sub-section .slide-inner .sub-text body.calculator-indiv h2, body.calculator-indiv .sub-section .slide-inner .sub-text .h2, .sub-section .slide-inner .sub-text body.calculator-indiv .h2, body.calculator-indiv .sub-section .slide-inner .sub-text .olb .olb-more, .sub-section .slide-inner .sub-text .olb body.calculator-indiv .olb-more, body.calculator-indiv .olb .sub-section .slide-inner .sub-text .olb-more, .olb .sub-section .slide-inner .sub-text body.calculator-indiv .olb-more, body.calculator-indiv .sub-section .slide-inner .sub-text .atm__results .atm__results-list table#locationTable thead tr td span, .sub-section .slide-inner .sub-text .atm__results .atm__results-list table#locationTable thead tr td body.calculator-indiv span, body.calculator-indiv .atm__results .atm__results-list table#locationTable thead tr td .sub-section .slide-inner .sub-text span, .atm__results .atm__results-list table#locationTable thead tr td .sub-section .slide-inner .sub-text body.calculator-indiv span, body.calculator-indiv .sub-section .slide-inner .sub-text .atm__results .atm__results-list table#locationTable thead tr th span, .sub-section .slide-inner .sub-text .atm__results .atm__results-list table#locationTable thead tr th body.calculator-indiv span, body.calculator-indiv .atm__results .atm__results-list table#locationTable thead tr th .sub-section .slide-inner .sub-text span, .atm__results .atm__results-list table#locationTable thead tr th .sub-section .slide-inner .sub-text body.calculator-indiv span, body.calculator-indiv blockquote {
+    font-family: "Lora" !important; }
+  body.calculator-indiv .sub h1, body.calculator-indiv .card-body h1, body.calculator-indiv .cta__bar h1, body.calculator-indiv .sub-section .slide-inner .sub-text h1, .sub-section .slide-inner body.calculator-indiv .sub-text h1, body.calculator-indiv .subpage__sidebar-general h1, body.calculator-indiv div.KJEDropper h1, body.calculator-indiv div.KJEGraphDropper h1, body.calculator-indiv div.KJEDefinitions h1, body.calculator-indiv .KJEInputContainer #KJEDefinitions h1, .KJEInputContainer body.calculator-indiv #KJEDefinitions h1, body.calculator-indiv .sub .h1, body.calculator-indiv .card-body .h1, body.calculator-indiv .cta__bar .h1, body.calculator-indiv .sub-section .slide-inner .sub-text .h1, .sub-section .slide-inner body.calculator-indiv .sub-text .h1, body.calculator-indiv .subpage__sidebar-general .h1, body.calculator-indiv div.KJEDropper .h1, body.calculator-indiv div.KJEGraphDropper .h1, body.calculator-indiv div.KJEDefinitions .h1, body.calculator-indiv .KJEInputContainer #KJEDefinitions .h1, .KJEInputContainer body.calculator-indiv #KJEDefinitions .h1, body.calculator-indiv .sub h2, body.calculator-indiv .card-body h2, body.calculator-indiv .cta__bar h2, body.calculator-indiv .sub-section .slide-inner .sub-text h2, .sub-section .slide-inner body.calculator-indiv .sub-text h2, body.calculator-indiv .subpage__sidebar-general h2, body.calculator-indiv div.KJEDropper h2, body.calculator-indiv div.KJEGraphDropper h2, body.calculator-indiv div.KJEDefinitions h2, body.calculator-indiv .KJEInputContainer #KJEDefinitions h2, .KJEInputContainer body.calculator-indiv #KJEDefinitions h2, body.calculator-indiv .sub .h2, body.calculator-indiv .card-body .h2, body.calculator-indiv .cta__bar .h2, body.calculator-indiv .sub-section .slide-inner .sub-text .h2, .sub-section .slide-inner body.calculator-indiv .sub-text .h2, body.calculator-indiv .subpage__sidebar-general .h2, body.calculator-indiv div.KJEDropper .h2, body.calculator-indiv div.KJEGraphDropper .h2, body.calculator-indiv div.KJEDefinitions .h2, body.calculator-indiv .KJEInputContainer #KJEDefinitions .h2, .KJEInputContainer body.calculator-indiv #KJEDefinitions .h2, body.calculator-indiv .sub .olb .olb-more, .olb body.calculator-indiv .sub .olb-more, body.calculator-indiv .card-body .olb .olb-more, .olb body.calculator-indiv .card-body .olb-more, body.calculator-indiv .cta__bar .olb .olb-more, .olb body.calculator-indiv .cta__bar .olb-more, body.calculator-indiv .sub-section .slide-inner .sub-text .olb .olb-more, .olb body.calculator-indiv .sub-section .slide-inner .sub-text .olb-more, .sub-section .slide-inner body.calculator-indiv .sub-text .olb .olb-more, .olb .sub-section .slide-inner body.calculator-indiv .sub-text .olb-more, body.calculator-indiv .subpage__sidebar-general .olb .olb-more, .olb body.calculator-indiv .subpage__sidebar-general .olb-more, body.calculator-indiv div.KJEDropper .olb .olb-more, .olb body.calculator-indiv div.KJEDropper .olb-more, body.calculator-indiv div.KJEGraphDropper .olb .olb-more, .olb body.calculator-indiv div.KJEGraphDropper .olb-more, body.calculator-indiv div.KJEDefinitions .olb .olb-more, .olb body.calculator-indiv div.KJEDefinitions .olb-more, body.calculator-indiv .KJEInputContainer #KJEDefinitions .olb .olb-more, .olb body.calculator-indiv .KJEInputContainer #KJEDefinitions .olb-more, .KJEInputContainer body.calculator-indiv #KJEDefinitions .olb .olb-more, .olb .KJEInputContainer body.calculator-indiv #KJEDefinitions .olb-more, body.calculator-indiv .sub .atm__results .atm__results-list table#locationTable thead tr td span, .atm__results .atm__results-list table#locationTable thead tr td body.calculator-indiv .sub span, body.calculator-indiv .card-body .atm__results .atm__results-list table#locationTable thead tr td span, .atm__results .atm__results-list table#locationTable thead tr td body.calculator-indiv .card-body span, body.calculator-indiv .cta__bar .atm__results .atm__results-list table#locationTable thead tr td span, .atm__results .atm__results-list table#locationTable thead tr td body.calculator-indiv .cta__bar span, body.calculator-indiv .sub-section .slide-inner .sub-text .atm__results .atm__results-list table#locationTable thead tr td span, .atm__results .atm__results-list table#locationTable thead tr td body.calculator-indiv .sub-section .slide-inner .sub-text span, .sub-section .slide-inner body.calculator-indiv .sub-text .atm__results .atm__results-list table#locationTable thead tr td span, .atm__results .atm__results-list table#locationTable thead tr td .sub-section .slide-inner body.calculator-indiv .sub-text span, body.calculator-indiv .subpage__sidebar-general .atm__results .atm__results-list table#locationTable thead tr td span, .atm__results .atm__results-list table#locationTable thead tr td body.calculator-indiv .subpage__sidebar-general span, body.calculator-indiv div.KJEDropper .atm__results .atm__results-list table#locationTable thead tr td span, .atm__results .atm__results-list table#locationTable thead tr td body.calculator-indiv div.KJEDropper span, body.calculator-indiv div.KJEGraphDropper .atm__results .atm__results-list table#locationTable thead tr td span, .atm__results .atm__results-list table#locationTable thead tr td body.calculator-indiv div.KJEGraphDropper span, body.calculator-indiv div.KJEDefinitions .atm__results .atm__results-list table#locationTable thead tr td span, .atm__results .atm__results-list table#locationTable thead tr td body.calculator-indiv div.KJEDefinitions span, body.calculator-indiv .KJEInputContainer #KJEDefinitions .atm__results .atm__results-list table#locationTable thead tr td span, .atm__results .atm__results-list table#locationTable thead tr td body.calculator-indiv .KJEInputContainer #KJEDefinitions span, .KJEInputContainer body.calculator-indiv #KJEDefinitions .atm__results .atm__results-list table#locationTable thead tr td span, .atm__results .atm__results-list table#locationTable thead tr td .KJEInputContainer body.calculator-indiv #KJEDefinitions span, body.calculator-indiv .sub .atm__results .atm__results-list table#locationTable thead tr th span, .atm__results .atm__results-list table#locationTable thead tr th body.calculator-indiv .sub span, body.calculator-indiv .card-body .atm__results .atm__results-list table#locationTable thead tr th span, .atm__results .atm__results-list table#locationTable thead tr th body.calculator-indiv .card-body span, body.calculator-indiv .cta__bar .atm__results .atm__results-list table#locationTable thead tr th span, .atm__results .atm__results-list table#locationTable thead tr th body.calculator-indiv .cta__bar span, body.calculator-indiv .sub-section .slide-inner .sub-text .atm__results .atm__results-list table#locationTable thead tr th span, .atm__results .atm__results-list table#locationTable thead tr th body.calculator-indiv .sub-section .slide-inner .sub-text span, .sub-section .slide-inner body.calculator-indiv .sub-text .atm__results .atm__results-list table#locationTable thead tr th span, .atm__results .atm__results-list table#locationTable thead tr th .sub-section .slide-inner body.calculator-indiv .sub-text span, body.calculator-indiv .subpage__sidebar-general .atm__results .atm__results-list table#locationTable thead tr th span, .atm__results .atm__results-list table#locationTable thead tr th body.calculator-indiv .subpage__sidebar-general span, body.calculator-indiv div.KJEDropper .atm__results .atm__results-list table#locationTable thead tr th span, .atm__results .atm__results-list table#locationTable thead tr th body.calculator-indiv div.KJEDropper span, body.calculator-indiv div.KJEGraphDropper .atm__results .atm__results-list table#locationTable thead tr th span, .atm__results .atm__results-list table#locationTable thead tr th body.calculator-indiv div.KJEGraphDropper span, body.calculator-indiv div.KJEDefinitions .atm__results .atm__results-list table#locationTable thead tr th span, .atm__results .atm__results-list table#locationTable thead tr th body.calculator-indiv div.KJEDefinitions span, body.calculator-indiv .KJEInputContainer #KJEDefinitions .atm__results .atm__results-list table#locationTable thead tr th span, .atm__results .atm__results-list table#locationTable thead tr th body.calculator-indiv .KJEInputContainer #KJEDefinitions span, .KJEInputContainer body.calculator-indiv #KJEDefinitions .atm__results .atm__results-list table#locationTable thead tr th span, .atm__results .atm__results-list table#locationTable thead tr th .KJEInputContainer body.calculator-indiv #KJEDefinitions span, body.calculator-indiv .sub h3, body.calculator-indiv .card-body h3, body.calculator-indiv .cta__bar h3, body.calculator-indiv .sub-section .slide-inner .sub-text h3, .sub-section .slide-inner body.calculator-indiv .sub-text h3, body.calculator-indiv .subpage__sidebar-general h3, body.calculator-indiv div.KJEDropper h3, body.calculator-indiv div.KJEGraphDropper h3, body.calculator-indiv div.KJEDefinitions h3, body.calculator-indiv .KJEInputContainer #KJEDefinitions h3, .KJEInputContainer body.calculator-indiv #KJEDefinitions h3, body.calculator-indiv .sub .h3, body.calculator-indiv .card-body .h3, body.calculator-indiv .cta__bar .h3, body.calculator-indiv .sub-section .slide-inner .sub-text .h3, .sub-section .slide-inner body.calculator-indiv .sub-text .h3, body.calculator-indiv .subpage__sidebar-general .h3, body.calculator-indiv div.KJEDropper .h3, body.calculator-indiv div.KJEGraphDropper .h3, body.calculator-indiv div.KJEDefinitions .h3, body.calculator-indiv .KJEInputContainer #KJEDefinitions .h3, .KJEInputContainer body.calculator-indiv #KJEDefinitions .h3, .sub-section .slide-inner .sub-text body.calculator-indiv .sub h2, .sub-section .slide-inner .sub-text body.calculator-indiv .card-body h2, .sub-section .slide-inner .sub-text body.calculator-indiv .cta__bar h2, body.calculator-indiv .sub-section .slide-inner .sub-text h2, .sub-section .slide-inner body.calculator-indiv .sub-text h2, .sub-section .slide-inner .sub-text body.calculator-indiv .subpage__sidebar-general h2, .sub-section .slide-inner .sub-text body.calculator-indiv div.KJEDropper h2, .sub-section .slide-inner .sub-text body.calculator-indiv div.KJEGraphDropper h2, .sub-section .slide-inner .sub-text body.calculator-indiv div.KJEDefinitions h2, body.calculator-indiv .KJEInputContainer #KJEDefinitions .sub-section .slide-inner .sub-text h2, .sub-section .slide-inner .sub-text body.calculator-indiv .KJEInputContainer #KJEDefinitions h2, .KJEInputContainer body.calculator-indiv #KJEDefinitions .sub-section .slide-inner .sub-text h2, .sub-section .slide-inner .sub-text .KJEInputContainer body.calculator-indiv #KJEDefinitions h2, .sub-section .slide-inner .sub-text body.calculator-indiv .sub .h2, .sub-section .slide-inner .sub-text body.calculator-indiv .card-body .h2, .sub-section .slide-inner .sub-text body.calculator-indiv .cta__bar .h2, body.calculator-indiv .sub-section .slide-inner .sub-text .h2, .sub-section .slide-inner body.calculator-indiv .sub-text .h2, .sub-section .slide-inner .sub-text body.calculator-indiv .subpage__sidebar-general .h2, .sub-section .slide-inner .sub-text body.calculator-indiv div.KJEDropper .h2, .sub-section .slide-inner .sub-text body.calculator-indiv div.KJEGraphDropper .h2, .sub-section .slide-inner .sub-text body.calculator-indiv div.KJEDefinitions .h2, body.calculator-indiv .KJEInputContainer #KJEDefinitions .sub-section .slide-inner .sub-text .h2, .sub-section .slide-inner .sub-text body.calculator-indiv .KJEInputContainer #KJEDefinitions .h2, .KJEInputContainer body.calculator-indiv #KJEDefinitions .sub-section .slide-inner .sub-text .h2, .sub-section .slide-inner .sub-text .KJEInputContainer body.calculator-indiv #KJEDefinitions .h2, .sub-section .slide-inner .sub-text .olb body.calculator-indiv .sub .olb-more, .sub-section .slide-inner .sub-text .olb body.calculator-indiv .card-body .olb-more, .sub-section .slide-inner .sub-text .olb body.calculator-indiv .cta__bar .olb-more, body.calculator-indiv .sub-section .slide-inner .sub-text .olb .olb-more, .sub-section .slide-inner body.calculator-indiv .sub-text .olb .olb-more, .sub-section .slide-inner .sub-text .olb body.calculator-indiv .subpage__sidebar-general .olb-more, .sub-section .slide-inner .sub-text .olb body.calculator-indiv div.KJEDropper .olb-more, .sub-section .slide-inner .sub-text .olb body.calculator-indiv div.KJEGraphDropper .olb-more, .sub-section .slide-inner .sub-text .olb body.calculator-indiv div.KJEDefinitions .olb-more, body.calculator-indiv .KJEInputContainer #KJEDefinitions .sub-section .slide-inner .sub-text .olb .olb-more, .sub-section .slide-inner .sub-text .olb body.calculator-indiv .KJEInputContainer #KJEDefinitions .olb-more, .KJEInputContainer body.calculator-indiv #KJEDefinitions .sub-section .slide-inner .sub-text .olb .olb-more, .sub-section .slide-inner .sub-text .olb .KJEInputContainer body.calculator-indiv #KJEDefinitions .olb-more, .olb .sub-section .slide-inner .sub-text body.calculator-indiv .sub .olb-more, .olb .sub-section .slide-inner .sub-text body.calculator-indiv .card-body .olb-more, .olb .sub-section .slide-inner .sub-text body.calculator-indiv .cta__bar .olb-more, body.calculator-indiv .olb .sub-section .slide-inner .sub-text .olb-more, .olb body.calculator-indiv .sub-section .slide-inner .sub-text .olb-more, .olb .sub-section .slide-inner body.calculator-indiv .sub-text .olb-more, .olb .sub-section .slide-inner .sub-text body.calculator-indiv .subpage__sidebar-general .olb-more, .olb .sub-section .slide-inner .sub-text body.calculator-indiv div.KJEDropper .olb-more, .olb .sub-section .slide-inner .sub-text body.calculator-indiv div.KJEGraphDropper .olb-more, .olb .sub-section .slide-inner .sub-text body.calculator-indiv div.KJEDefinitions .olb-more, body.calculator-indiv .KJEInputContainer #KJEDefinitions .olb .sub-section .slide-inner .sub-text .olb-more, .olb .sub-section .slide-inner .sub-text body.calculator-indiv .KJEInputContainer #KJEDefinitions .olb-more, .KJEInputContainer body.calculator-indiv #KJEDefinitions .olb .sub-section .slide-inner .sub-text .olb-more, .olb .sub-section .slide-inner .sub-text .KJEInputContainer body.calculator-indiv #KJEDefinitions .olb-more, .sub-section .slide-inner .sub-text .atm__results .atm__results-list table#locationTable thead tr td body.calculator-indiv .sub span, .sub-section .slide-inner .sub-text .atm__results .atm__results-list table#locationTable thead tr td body.calculator-indiv .card-body span, .sub-section .slide-inner .sub-text .atm__results .atm__results-list table#locationTable thead tr td body.calculator-indiv .cta__bar span, body.calculator-indiv .sub-section .slide-inner .sub-text .atm__results .atm__results-list table#locationTable thead tr td span, .sub-section .slide-inner body.calculator-indiv .sub-text .atm__results .atm__results-list table#locationTable thead tr td span, .sub-section .slide-inner .sub-text .atm__results .atm__results-list table#locationTable thead tr td body.calculator-indiv .subpage__sidebar-general span, .sub-section .slide-inner .sub-text .atm__results .atm__results-list table#locationTable thead tr td body.calculator-indiv div.KJEDropper span, .sub-section .slide-inner .sub-text .atm__results .atm__results-list table#locationTable thead tr td body.calculator-indiv div.KJEGraphDropper span, .sub-section .slide-inner .sub-text .atm__results .atm__results-list table#locationTable thead tr td body.calculator-indiv div.KJEDefinitions span, .sub-section .slide-inner .sub-text .atm__results .atm__results-list table#locationTable thead tr td body.calculator-indiv .KJEInputContainer #KJEDefinitions span, .sub-section .slide-inner .sub-text .atm__results .atm__results-list table#locationTable thead tr td .KJEInputContainer body.calculator-indiv #KJEDefinitions span, .atm__results .atm__results-list table#locationTable thead tr td .sub-section .slide-inner .sub-text body.calculator-indiv .sub span, .atm__results .atm__results-list table#locationTable thead tr td .sub-section .slide-inner .sub-text body.calculator-indiv .card-body span, .atm__results .atm__results-list table#locationTable thead tr td .sub-section .slide-inner .sub-text body.calculator-indiv .cta__bar span, body.calculator-indiv .atm__results .atm__results-list table#locationTable thead tr td .sub-section .slide-inner .sub-text span, .atm__results .atm__results-list table#locationTable thead tr td body.calculator-indiv .sub-section .slide-inner .sub-text span, .atm__results .atm__results-list table#locationTable thead tr td .sub-section .slide-inner body.calculator-indiv .sub-text span, .atm__results .atm__results-list table#locationTable thead tr td .sub-section .slide-inner .sub-text body.calculator-indiv .subpage__sidebar-general span, .atm__results .atm__results-list table#locationTable thead tr td .sub-section .slide-inner .sub-text body.calculator-indiv div.KJEDropper span, .atm__results .atm__results-list table#locationTable thead tr td .sub-section .slide-inner .sub-text body.calculator-indiv div.KJEGraphDropper span, .atm__results .atm__results-list table#locationTable thead tr td .sub-section .slide-inner .sub-text body.calculator-indiv div.KJEDefinitions span, .atm__results .atm__results-list table#locationTable thead tr td .sub-section .slide-inner .sub-text body.calculator-indiv .KJEInputContainer #KJEDefinitions span, .atm__results .atm__results-list table#locationTable thead tr td .sub-section .slide-inner .sub-text .KJEInputContainer body.calculator-indiv #KJEDefinitions span, .sub-section .slide-inner .sub-text .atm__results .atm__results-list table#locationTable thead tr th body.calculator-indiv .sub span, .sub-section .slide-inner .sub-text .atm__results .atm__results-list table#locationTable thead tr th body.calculator-indiv .card-body span, .sub-section .slide-inner .sub-text .atm__results .atm__results-list table#locationTable thead tr th body.calculator-indiv .cta__bar span, body.calculator-indiv .sub-section .slide-inner .sub-text .atm__results .atm__results-list table#locationTable thead tr th span, .sub-section .slide-inner body.calculator-indiv .sub-text .atm__results .atm__results-list table#locationTable thead tr th span, .sub-section .slide-inner .sub-text .atm__results .atm__results-list table#locationTable thead tr th body.calculator-indiv .subpage__sidebar-general span, .sub-section .slide-inner .sub-text .atm__results .atm__results-list table#locationTable thead tr th body.calculator-indiv div.KJEDropper span, .sub-section .slide-inner .sub-text .atm__results .atm__results-list table#locationTable thead tr th body.calculator-indiv div.KJEGraphDropper span, .sub-section .slide-inner .sub-text .atm__results .atm__results-list table#locationTable thead tr th body.calculator-indiv div.KJEDefinitions span, .sub-section .slide-inner .sub-text .atm__results .atm__results-list table#locationTable thead tr th body.calculator-indiv .KJEInputContainer #KJEDefinitions span, .sub-section .slide-inner .sub-text .atm__results .atm__results-list table#locationTable thead tr th .KJEInputContainer body.calculator-indiv #KJEDefinitions span, .atm__results .atm__results-list table#locationTable thead tr th .sub-section .slide-inner .sub-text body.calculator-indiv .sub span, .atm__results .atm__results-list table#locationTable thead tr th .sub-section .slide-inner .sub-text body.calculator-indiv .card-body span, .atm__results .atm__results-list table#locationTable thead tr th .sub-section .slide-inner .sub-text body.calculator-indiv .cta__bar span, body.calculator-indiv .atm__results .atm__results-list table#locationTable thead tr th .sub-section .slide-inner .sub-text span, .atm__results .atm__results-list table#locationTable thead tr th body.calculator-indiv .sub-section .slide-inner .sub-text span, .atm__results .atm__results-list table#locationTable thead tr th .sub-section .slide-inner body.calculator-indiv .sub-text span, .atm__results .atm__results-list table#locationTable thead tr th .sub-section .slide-inner .sub-text body.calculator-indiv .subpage__sidebar-general span, .atm__results .atm__results-list table#locationTable thead tr th .sub-section .slide-inner .sub-text body.calculator-indiv div.KJEDropper span, .atm__results .atm__results-list table#locationTable thead tr th .sub-section .slide-inner .sub-text body.calculator-indiv div.KJEGraphDropper span, .atm__results .atm__results-list table#locationTable thead tr th .sub-section .slide-inner .sub-text body.calculator-indiv div.KJEDefinitions span, .atm__results .atm__results-list table#locationTable thead tr th .sub-section .slide-inner .sub-text body.calculator-indiv .KJEInputContainer #KJEDefinitions span, .atm__results .atm__results-list table#locationTable thead tr th .sub-section .slide-inner .sub-text .KJEInputContainer body.calculator-indiv #KJEDefinitions span, body.calculator-indiv div.KJEDefinitions h1, body.calculator-indiv div.KJEDefinitions .h1, body.calculator-indiv div.KJEDefinitions h2, body.calculator-indiv div.KJEDefinitions .h2, body.calculator-indiv div.KJEDefinitions .olb .olb-more, .olb body.calculator-indiv div.KJEDefinitions .olb-more, body.calculator-indiv div.KJEDefinitions .atm__results .atm__results-list table#locationTable thead tr td span, .atm__results .atm__results-list table#locationTable thead tr td body.calculator-indiv div.KJEDefinitions span, body.calculator-indiv div.KJEDefinitions .atm__results .atm__results-list table#locationTable thead tr th span, .atm__results .atm__results-list table#locationTable thead tr th body.calculator-indiv div.KJEDefinitions span, body.calculator-indiv div.KJEDefinitions h3, body.calculator-indiv div.KJEDefinitions .h3, body.calculator-indiv div.KJEDefinitions .sub-section .slide-inner .sub-text h2, .sub-section .slide-inner .sub-text body.calculator-indiv div.KJEDefinitions h2, body.calculator-indiv div.KJEDefinitions .sub-section .slide-inner .sub-text .h2, .sub-section .slide-inner .sub-text body.calculator-indiv div.KJEDefinitions .h2, body.calculator-indiv div.KJEDefinitions .sub-section .slide-inner .sub-text .olb .olb-more, .sub-section .slide-inner .sub-text .olb body.calculator-indiv div.KJEDefinitions .olb-more, body.calculator-indiv div.KJEDefinitions .olb .sub-section .slide-inner .sub-text .olb-more, .olb .sub-section .slide-inner .sub-text body.calculator-indiv div.KJEDefinitions .olb-more, body.calculator-indiv div.KJEDefinitions .sub-section .slide-inner .sub-text .atm__results .atm__results-list table#locationTable thead tr td span, .sub-section .slide-inner .sub-text .atm__results .atm__results-list table#locationTable thead tr td body.calculator-indiv div.KJEDefinitions span, body.calculator-indiv div.KJEDefinitions .atm__results .atm__results-list table#locationTable thead tr td .sub-section .slide-inner .sub-text span, .atm__results .atm__results-list table#locationTable thead tr td .sub-section .slide-inner .sub-text body.calculator-indiv div.KJEDefinitions span, body.calculator-indiv div.KJEDefinitions .sub-section .slide-inner .sub-text .atm__results .atm__results-list table#locationTable thead tr th span, .sub-section .slide-inner .sub-text .atm__results .atm__results-list table#locationTable thead tr th body.calculator-indiv div.KJEDefinitions span, body.calculator-indiv div.KJEDefinitions .atm__results .atm__results-list table#locationTable thead tr th .sub-section .slide-inner .sub-text span, .atm__results .atm__results-list table#locationTable thead tr th .sub-section .slide-inner .sub-text body.calculator-indiv div.KJEDefinitions span {
+    font-family: "Lato" !important; }
+
+.KJEWait {
+  background-image: none !important;
+  border: 0.3125rem solid #f3f3f3 !important;
+  border-top: 0.3125rem solid #282828 !important;
+  border-radius: 50% !important;
+  width: 1.5rem !important;
+  height: 1.5rem !important;
+  animation: spin 1.5s linear infinite; }
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg); }
+  100% {
+    transform: rotate(360deg); } }
+
+/*
+// CSS Classes  below can be populated and changed to modify your calculator deployment.
+// IMPORTANT: Do Not Modify the KJE.css file!  The KJE.css file is replaced during the update process
+// All CSS customization must be done in this file (you can override KJE.css classes)
+//
+// For information on customizing this file please see:
+// https://www.dinkytown.net/money/V3customize.html
+*/
+#KJETitle, .KJEWrapper .KJEFontTitle {
+  display: none; }
+
+#KJECalculatorTable {
+  border: 0; }
+
+#KJETitle {
+  background-image: none; }
+
+.KJEWrapper hr {
+  max-width: none !important;
+  height: auto !important;
+  background-color: transparent !important;
+  border-top: 0.0625rem solid rgba(0, 0, 0, 0.1) !important;
+  border-radius: 0 !important; }
+
+div.KJEDropper, div.KJEGraphDropper {
+  border: 0;
+  padding: 1.25rem 0.3125rem; }
+  div.KJEDropper:hover, div.KJEDropper:focus, div.KJEGraphDropper:hover, div.KJEGraphDropper:focus {
+    outline: 0; }
+    div.KJEDropper:hover .KJEToggleTitle h2, div.KJEDropper:focus .KJEToggleTitle h2, div.KJEGraphDropper:hover .KJEToggleTitle h2, div.KJEGraphDropper:focus .KJEToggleTitle h2 {
+      text-decoration: underline; }
+
+#KJEAllContent, body.KJEBody, body.KJEReportBody,
+#KJECalculatorTable, #KJEReport, #KJEReport p, #KJEDefinitions, #KJEDefinitions p, .KJESubTitle, .KJEToggleSubTitle, #KJECalculatorDescID {
+  font-family: "Lato";
+  font-weight: normal;
+  line-height: normal;
+  font-size: 1rem; }
+
+#KJETitleH1, h1.KJEFontTitle {
+  line-height: 1.625rem;
+  font-size: 1.5rem; }
+
+#KJEScrollSticky, .KJECommandButton, .KJEMoreButton {
+  font-size: 1.25rem; }
+
+button.KJECloseButton, div.KJESlider div.KJEScale {
+  font-size: 0.8125rem; }
+
+#KJEReport p.KJEFooter, #KJEAllContent p.KJEFooter, body.KJEBody p.KJEFooter, p.KJEFooter, .KJEFooter {
+  font-size: 0.8125rem; }
+
+@media screen and (max-width: 40rem) {
+  .KJECommandButton, .KJEMoreButton {
+    font-size: 1rem; }
+  div.KJESubTitle {
+    font-size: 0.875rem; } }
+
+/* Command buttons */
+#KJEFixed {
+  top: auto !important;
+  bottom: 100% !important;
+  z-index: 1; }
+  #KJEFixed.KJEButtonIsFixed {
+    position: absolute !important;
+    left: 0 !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    background-color: transparent;
+    border: 0; }
+
+.KJECommandButton, .KJEMoreButton {
+  width: auto !important;
+  margin: 0.3125rem; }
+
+.KJECommandButton:focus, .KJEMoreButton:focus {
+  background-color: #333333;
+  box-shadow: 0 0 0.125rem 0.125rem #666666; }
+
+.KJECommandButton:hover, .KJEMoreButton:hover, .KJECommandButton:active, .KJEMoreButton:active {
+  background-color: #666666;
+  border-color: #333333; }
+
+#KJERequiredNote {
+  font-size: 0.8125rem;
+  font-weight: 700;
+  text-transform: capitalize; }
+  #KJERequiredNote span.KJERequired {
+    margin-right: 0.3125rem; }
+
+span.KJERequired {
+  color: inherit; }
+
+/* pop ups*/
+#KJEGuiDataPoint, #KJEMenuWindow, div.KJEGuiDefnPopup, span.KJEGuiErrorPopup, span.KJERequired:hover span.KJERequiredShowHover {
+  border-color: #282828; }
+
+#KJEGuiDataPoint:before,
+#KJEMenuWindow:before,
+div.KJEGuiDefnPopup:before,
+span.KJEGuiErrorPopup:before,
+span.KJERequired:hover span.KJERequiredShowHover:before {
+  border-color: #282828 transparent; }
+
+button.KJEDefinitionIcon, button.KJECloseButton {
+  color: #282828;
+  border-color: #282828;
+  background-color: transparent; }
+
+button.KJEDefinitionIcon:active,
+button.KJEDefinitionIcon:focus,
+button.KJEDefinitionIcon:hover,
+button.KJECloseButton:active,
+button.KJECloseButton:focus,
+button.KJECloseButton:hover {
+  background-color: #282828; }
+
+.KJEInputContainer .KJEHelp:hover {
+  color: #595959; }
+
+table.KJEIndexTable th.KJELabel a, #KJEAllContent a {
+  color: #595959; }
+
+.KJEInputContainer input.KJEInputModern[type='radio']:focus, .KJEInputContainer input.KJEInputModern[type='radio']:active,
+.KJEInputContainer input.KJEInputModern[type='checkbox']:focus, .KJEInputContainer input.KJEInputModern[type='checkbox']:active {
+  box-shadow: 0 0 0.3125rem 0px #282828 inset; }
+
+button.KJEMenu:active, button.KJEMenu:focus, button.KJEMenu:hover, button.KJEMenu:active, button.KJEMenu:focus, button.KJEMenu:hover {
+  border-color: #282828; }
+
+table.KJEScheduleTable tr.KJEScheduleHeaderRow:hover, table.KJEReportTable tr.KJEHeaderRow:hover, table.KJECalcTable tr.KJEHeaderRow:hover,
+table.KJEScheduleTable tr.KJEScheduleFooterRow:hover, table.KJEReportTable tr.KJEFooterRow:hover, table.KJECalcTable tr.KJEFooterRow:hover,
+table.KJEScheduleTable tr.KJEScheduleEvenRow:hover, table.KJEReportTable tr.KJEEvenRow:hover, table.KJECalcTable tr.KJEEvenRow:hover,
+table.KJEScheduleTable tr.KJEScheduleOddRow:hover, table.KJEReportTable tr.KJEOddRow:hover, table.KJECalcTable tr.KJEOddRow:hover,
+table.KJEScheduleTable thead.KJEScheduleTHeader tr.KJEScheduleHeaderRow:hover, table.KJEReportTable thead.KJEReportTHeader tr.KJEHeaderRow:hover {
+  background-color: #282828; }
+
+table.KJEReportTable caption.KJEHeaderRow:hover,
+table.KJEScheduleTable caption.KJEHeaderRow:hover,
+table.KJEReportTable th.KJEHeading:hover,
+table.KJEReportTable td.KJECell:hover,
+table.KJEReportTable td.KJECellStrong:hover,
+table.KJEReportTable .KJELabel:hover,
+table.KJECalcTable th.KJEHeading:hover,
+table.KJECalcTable td.KJECell:hover,
+table.KJECalcTable td.KJECellStrong:hover,
+table.KJECalcTable .KJELabel:hover,
+table.KJEScheduleTable th.KJEScheduleHeading:hover,
+table.KJEScheduleTable th.KJEScheduleCell:hover,
+table.KJEScheduleTable td.KJEScheduleCell:hover,
+table.KJEScheduleTable td.KJEScheduleCellStrong:hover {
+  background-color: #282828; }
+
+.KJEInputContainer {
+  margin-top: 1.5625rem;
+  font-family: 'Arial', sans-serif;
+  font-size: 0.8125rem; }
+  .KJEInputContainer > .KJEHelp, .KJEInputContainer > .KJELabel {
+    top: 50%;
+    transform: translateY(-50%); }
+  .KJEInputContainer label {
+    font-weight: 700 !important;
+    text-transform: none !important;
+    letter-spacing: 0 !important; }
+  .KJEInputContainer .KJEDefinitionIcon {
+    font-size: 0.6875rem;
+    margin-top: 0;
+    margin-left: 0.3125rem; }
+  .KJEInputContainer .KJEInput {
+    font-size: 0.9375rem;
+    font-weight: 400; }
+  .KJEInputContainer .KJEScale {
+    top: -0.625rem; }
+
+.KJEInputContainer input[type="text"].KJEInputModern, .KJEInputContainer select.KJEDropBoxModern, .KJEInputContainer input.KJEInputModern:not([type='checkbox']):not([type='radio']) {
+  padding: 0.3125rem 0.25rem; }
+
+/* Ranges for WebKit/Blink */
+.KJEInputContainer input[type=range]::-webkit-slider-thumb, .KJEInputContainer input[type=range]:active::-webkit-slider-thumb {
+  border-color: #282828;
+  background: #282828; }
+
+.KJEInputContainer input[type=range]:active::-webkit-slider-thumb {
+  border-color: #1C1C1C;
+  background: #1C1C1C; }
+
+.KJEInputContainer input[type=range]::-webkit-slider-runnable-track, .KJEInputContainer input[type=range]:active::-webkit-slider-runnable-track {
+  background-image: linear-gradient(90deg, #282828 var(--webkitProgressPercent), #666666 var(--webkitProgressPercent)); }
+
+/* All RANGES for Firefox */
+.KJEInputContainer input[type=range]::-moz-range-thumb, .KJEInputContainer input[type=range]:active::-moz-range-thumb {
+  border-color: #282828;
+  background: #282828; }
+
+.KJEInputContainer input[type=range]:active::-moz-range-thumb {
+  border-color: #1C1C1C;
+  background: #1C1C1C; }
+
+input[type="range"]::-moz-range-progress {
+  background-color: #1C1C1C; }
+
+/* All RANGES for IE */
+.KJEInputContainer input[type=range]::-ms-thumb, .KJEInputContainer input[type=range]:active::-ms-thumb {
+  border-color: #282828;
+  background: #282828; }
+
+.KJEInputContainer input[type=range]:active::-ms-thumb {
+  border-color: #1C1C1C;
+  background: #1C1C1C; }
+
+.KJEInputContainer input[type=range]::-ms-fill-lower, .KJEInputContainer input[type=range]:active::-ms-fill-lower, .KJEInputContainer input[type=range]::-ms-fill-upper, .KJEInputContainer input[type=range]:active::-ms-fill-upper {
+  background: #363636; }
